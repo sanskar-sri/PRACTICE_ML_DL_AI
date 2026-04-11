@@ -1,0 +1,20 @@
+1) To Install a new environment:-
+   syntax:- conda create -p venv  python==3.10 -y
+   here venv is environment name
+
+2) To Activate the existing environment
+   syntax:- conda activate venv
+
+3) Start MLflow UI:
+    syntax:- mlflow ui --port 5001
+
+
+4)
+    Port 5000 is already taken by macOS AirPlay receiver. Run MLflow on a different port:
+
+
+5) to stop the tracking server 
+    syntax:- ctrl+c
+            lsof -ti :5001 | xargs kill 
+            (it will kill ui in background as will as it dead the kernal env we have to restart the 
+            kernel so use wisely
