@@ -1,0 +1,71 @@
+{
+  "build": "h55c6f16_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "__osx >=11.0"
+  ],
+  "extracted_package_dir": "/opt/anaconda3/pkgs/libcxx-22.1.3-h55c6f16_0",
+  "files": [
+    "lib/libc++.1.0.dylib",
+    "lib/libc++.1.dylib",
+    "lib/libc++.a",
+    "lib/libc++.dylib",
+    "lib/libc++experimental.a"
+  ],
+  "fn": "libcxx-22.1.3-h55c6f16_0.conda",
+  "license": "Apache-2.0 WITH LLVM-exception",
+  "link": {
+    "source": "/opt/anaconda3/pkgs/libcxx-22.1.3-h55c6f16_0",
+    "type": 1
+  },
+  "md5": "acbb3f547c4aae16b19e417db0c6e5ed",
+  "name": "libcxx",
+  "package_tarball_full_path": "/opt/anaconda3/pkgs/libcxx-22.1.3-h55c6f16_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/libc++.1.0.dylib",
+        "path_type": "hardlink",
+        "sha256": "1dbbbfd89b7a1c8d6b0e74f3c31cd7ade3474472619abca30165302dc981f1ff",
+        "sha256_in_prefix": "1dbbbfd89b7a1c8d6b0e74f3c31cd7ade3474472619abca30165302dc981f1ff",
+        "size_in_bytes": 1174688
+      },
+      {
+        "_path": "lib/libc++.1.dylib",
+        "path_type": "softlink",
+        "sha256": "1dbbbfd89b7a1c8d6b0e74f3c31cd7ade3474472619abca30165302dc981f1ff",
+        "size_in_bytes": 1174688
+      },
+      {
+        "_path": "lib/libc++.a",
+        "path_type": "hardlink",
+        "sha256": "04ff27b22284836047a392681cc10468e6b1ca52f964c1dfe39bb948adc93135",
+        "sha256_in_prefix": "04ff27b22284836047a392681cc10468e6b1ca52f964c1dfe39bb948adc93135",
+        "size_in_bytes": 1684112
+      },
+      {
+        "_path": "lib/libc++.dylib",
+        "path_type": "softlink",
+        "sha256": "1dbbbfd89b7a1c8d6b0e74f3c31cd7ade3474472619abca30165302dc981f1ff",
+        "size_in_bytes": 1174688
+      },
+      {
+        "_path": "lib/libc++experimental.a",
+        "path_type": "hardlink",
+        "sha256": "00c58989d0ed8511870941a1260c4ebfde2a923fd9abb0cce2856d58c607b88c",
+        "sha256_in_prefix": "00c58989d0ed8511870941a1260c4ebfde2a923fd9abb0cce2856d58c607b88c",
+        "size_in_bytes": 319096
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "34cc56c627b01928e49731bcfe92338e440ab6b5952feee8f1dd16570b8b8339",
+  "size": 570026,
+  "subdir": "osx-arm64",
+  "timestamp": 1775565121000,
+  "url": "https://conda.anaconda.org/conda-forge/osx-arm64/libcxx-22.1.3-h55c6f16_0.conda",
+  "version": "22.1.3"
+}

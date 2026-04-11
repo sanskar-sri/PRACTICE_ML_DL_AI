@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/785206439212412628/d95e0f08b323470485ba683ac991dd2c/artifacts
+end_time: 1775896334278
+entry_point_name: ''
+experiment_id: '785206439212412628'
+lifecycle_stage: active
+run_id: d95e0f08b323470485ba683ac991dd2c
+run_name: indecisive-slug-379
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775896334261
+status: 3
+tags: []
+user_id: sanskarsrivastava

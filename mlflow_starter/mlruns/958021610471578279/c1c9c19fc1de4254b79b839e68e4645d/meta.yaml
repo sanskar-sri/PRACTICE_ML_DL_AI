@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/958021610471578279/c1c9c19fc1de4254b79b839e68e4645d/artifacts
+end_time: 1775895662526
+entry_point_name: ''
+experiment_id: '958021610471578279'
+lifecycle_stage: active
+run_id: c1c9c19fc1de4254b79b839e68e4645d
+run_name: whimsical-boar-319
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775895662502
+status: 3
+tags: []
+user_id: sanskarsrivastava

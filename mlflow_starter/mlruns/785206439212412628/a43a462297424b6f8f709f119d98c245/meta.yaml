@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/785206439212412628/a43a462297424b6f8f709f119d98c245/artifacts
+end_time: 1775895330192
+entry_point_name: ''
+experiment_id: '785206439212412628'
+lifecycle_stage: active
+run_id: a43a462297424b6f8f709f119d98c245
+run_name: sassy-cub-420
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775895330175
+status: 3
+tags: []
+user_id: sanskarsrivastava
